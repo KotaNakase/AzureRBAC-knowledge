@@ -1,0 +1,55 @@
+<mxfile host="65bd71144e">
+    <diagram id="oqh2K8x5jILwIFD9lVis" name="ページ1">
+        <mxGraphModel dx="942" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;arcSize=7;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="120" width="600" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;arcSize=7;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="140" width="160" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Users.svg;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="150" width="54.86" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="150" width="72.86" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;arcSize=7;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="140" width="160" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;arcSize=7;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="140" width="160" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;rounded=1;strokeColor=#3333FF;" parent="1" vertex="1">
+                    <mxGeometry x="358.26" y="150" width="18.59" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;rounded=1;strokeColor=#3333FF;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="150" width="37.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;rounded=1;strokeColor=#3333FF;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="185" width="32.34" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;rounded=1;strokeColor=#3333FF;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="150" width="31.88" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;rounded=1;strokeColor=#3333FF;" parent="1" vertex="1">
+                    <mxGeometry x="353.39" y="185" width="28.34" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Read&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Write&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Delete&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=left;rounded=1;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="150" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Security principal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="210" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Role definition" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="210" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Scope" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="210" width="140" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
